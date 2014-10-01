@@ -1,4 +1,7 @@
 arduino_DFT
 ===========
 
-Implements DFT on an Arduino Uno via a standard arduino sketch written in C
+All info here: 
+http://robotcantalk.blogspot.in/2014/01/dft-on-arduino.html
+
+
